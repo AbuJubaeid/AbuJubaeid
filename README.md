@@ -1,6 +1,6 @@
 
 <!--- banner --->
-<img height=”600” src="https://i.ibb.co.com/XfyzR4bT/banner.png">
+<img src="./banner/banner.png" alt="Hello world">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
