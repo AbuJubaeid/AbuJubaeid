@@ -1,6 +1,8 @@
 
 <!--- banner --->
-<img src="./banner/banner.png" alt="This is Abu Jubaeid">
+<p align="center">
+  <img src="./banner/banner.png" alt="Abu Jubaeid Pranto"/>
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
