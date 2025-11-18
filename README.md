@@ -1,8 +1,7 @@
 
 <!--- banner --->
-<img src="https://i.ibb.co.com/XfyzR4bT/banner.png">
+<img height=”600” src="https://i.ibb.co.com/XfyzR4bT/banner.png">
 
-<br/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Abu+Jubaeid....;Nice+to+meet+you!&center=true&size=30">
