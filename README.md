@@ -1,6 +1,6 @@
 
 <!--- banner --->
-<img src="./banner/banner.png" alt="Hello world">
+<img src="./banner/banner.png" alt="This is Abu Jubaeid">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
