@@ -40,27 +40,27 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,graphql)
+<img src="https://skillicons.dev/icons?i=html,css,javascript,graphql" />
 
 ### CSS Frameworks & Libraries:
-![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
 
 ### JavaScript Frameworks & Libraries:
-![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,express)
+<img src="https://skillicons.dev/icons?i=react,express" />
 
 ### Database & Model:
-![Database & Model](https://skillicons.dev/icons?i=mongodb)
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 ### Deployment Platform:
-![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
 ### Design & Graphics:
-![Design & Graphics](https://skillicons.dev/icons?i=figma,ai)
+<img src="https://skillicons.dev/icons?i=figma,ai" />
 
 ### Tools & Technologies:
-![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)
+<img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman" />
 
-<br/>
+<br/> 
 
 ### GitHub Statistics:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abujubaeid&show_icons=true&locale=en" alt="abujubaeid" /></p>
