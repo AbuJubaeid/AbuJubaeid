@@ -40,7 +40,7 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[Languages](https://skillicons.dev/icons?i=html,css,javascript,graphql)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,graphql)]
 
 ### CSS Frameworks & Libraries:
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)]
