@@ -40,25 +40,25 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,graphql)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,graphql)]
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)]
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,express)]
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/touhidcodes)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)]
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)]
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai)](https://github.com/touhidcodes)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai)]
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)]
 
 <br/>
 
