@@ -57,12 +57,7 @@
 ### ⚡ JavaScript Frameworks & Libraries
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-
-<!-- Express Dark -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-dark-mode-only" height="40" title="Express.js"/>
-
-<!-- Express Light -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg#gh-light-mode-only" height="40" title="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" title="Express.js"/>
 </p>
 
 ### 🗄️ Database
@@ -72,13 +67,7 @@
 
 ### ☁️ Deployment Platform
 <p>
-
-<!-- Vercel Dark -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg#gh-dark-mode-only" height="40" title="Vercel"/>
-
-<!-- Vercel Light -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg#gh-light-mode-only" height="40" title="Vercel"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" height="40" title="Vercel"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" title="Netlify"/>
 </p>
 
@@ -92,16 +81,11 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-
-<!-- GitHub Dark -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" height="40" title="GitHub"/>
-
-<!-- GitHub Light -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-light-mode-only" height="40" title="GitHub"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman"/>
 </p>
+
 <br/> 
 
 ### GitHub Statistics:
