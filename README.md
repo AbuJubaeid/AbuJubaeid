@@ -40,25 +40,46 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-<img src="https://skillicons.dev/icons?i=html,css,javascript,graphql" />
+<img 
+src="https://skillicons.dev/icons?i=html,css,javascript,graphql" 
+title="HTML, CSS, JavaScript, GraphQL"
+/>
 
 ### CSS Frameworks & Libraries:
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
+<img 
+src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" 
+title="Tailwind CSS, Material UI, Bootstrap"
+/>
 
 ### JavaScript Frameworks & Libraries:
-<img src="https://skillicons.dev/icons?i=react,express" />
+<img 
+src="https://skillicons.dev/icons?i=react,express" 
+title="React, Express"
+/>
 
 ### Database & Model:
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img 
+src="https://skillicons.dev/icons?i=mongodb" 
+title="MongoDB"
+/>
 
 ### Deployment Platform:
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<img 
+src="https://skillicons.dev/icons?i=vercel,netlify" 
+title="Vercel, Netlify"
+/>
 
 ### Design & Graphics:
-<img src="https://skillicons.dev/icons?i=figma,ai" />
+<img 
+src="https://skillicons.dev/icons?i=figma,ai" 
+title="Figma, Adobe Illustrator"
+/>
 
 ### Tools & Technologies:
-<img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman" />
+<img 
+src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman" 
+title="Windows, Git, GitHub, VS Code, Postman"
+/>
 
 <br/> 
 
