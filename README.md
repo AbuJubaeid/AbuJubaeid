@@ -57,7 +57,9 @@
 ### ⚡ JavaScript Frameworks & Libraries
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" title="Express.js"/>
+
+<!-- Express fixed -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" style="background:white;padding:6px;border-radius:6px;" title="Express.js"/>
 </p>
 
 ### 🗄️ Database
@@ -67,7 +69,10 @@
 
 ### ☁️ Deployment Platform
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" height="40" title="Vercel"/>
+
+<!-- Vercel fixed -->
+<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" height="40" title="Vercel"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" title="Netlify"/>
 </p>
 
@@ -81,7 +86,10 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" title="GitHub"/>
+
+<!-- GitHub fixed -->
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" title="GitHub"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman"/>
 </p>
